@@ -4,5 +4,5 @@ How to add Google Oauth2 authentication using Spring Security Rest
 [Guide](https://guides.grails.org/grails-oauth-google/guide/index.html)
 
 # z add
-- git to my remote with credentials help
+- git to my remote with credentials helper
 - switching  to grails 4 
